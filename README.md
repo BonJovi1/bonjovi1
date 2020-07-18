@@ -4,6 +4,8 @@
 **BonJovi1/bonjovi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img width="250" align="right" src="https://raw.githubusercontent.com/batra98/batra98/master/gif/work.gif">
+
 I'm Abhinav, I'm a senior year undergraduate at the International Institute of Information Technology (IIIT), Hyderabad. I like to work at the intersection of  vision, machine learning and robotics. I am deeply passionate about computer vision, with a particular fondness for pose estimation, object detection and 3D scene understanding. 
 
 Welcome to my GitHub, you can find all my projects here! 
