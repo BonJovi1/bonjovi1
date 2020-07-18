@@ -18,7 +18,7 @@ def current_work(name):
   print(name, "🔭 is currently working on a deep unsupervised image based visual servoing.")
   print(name, "🌱 is currently learning how one can use keypoints from pose estimates for activity recognition.")
   
-def about_me():
+def about_me(name):
   print("👯 I'm very fascinated by the dystopian future that AI might create.")
   print("📫 You can reach out to me anytime on my email.")
 
