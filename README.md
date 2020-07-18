@@ -11,11 +11,14 @@ I am deeply passionate about computer vision, with a particular fondness for pos
 
 Welcome to my GitHub, you can find all my projects here! 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=bonjovi1&hide=["issues"]&show_icons=true)
 
 - 🔭 I’m currently working on a deep unsupervised image based visual servoing. \
 - 🌱 I’m currently learning how one can use keypoints from pose estimates for activity and gait recognition. \
 - 👯 I'm very fascinated by the impact (both good and bad) that AI could have on humanity in the near future. \
 - 📫 You can reach out to me anytime on my email. \
 - ⚡ When I'm not exploring the awesome world of deep learning, I spend my time drumming or playing the guitar. \
+
+![Saadegahi's awesome idea](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
 
