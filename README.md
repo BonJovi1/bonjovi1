@@ -30,6 +30,5 @@ if __name__ == "__main__":
   print("I also spend my time drumming or playing the guitar.")
 ```
 
-![Saadegahi's awesome idea](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 
