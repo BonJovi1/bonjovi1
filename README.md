@@ -6,7 +6,7 @@
 
 <img width="250" align="right" src="https://raw.githubusercontent.com/batra98/batra98/master/gif/work.gif">
 
-I'm Abhinav, I'm a first year Master's student at Georgia Tech, majoring in Computer Science with a Specialization in Machine Learning. I'm extremely fond of building efficient and user-friendyl software. I like to work at the intersection of  vision, machine learning and robotics. \
+I'm Abhinav, I'm a first year Master's student at Georgia Tech, majoring in Computer Science with a Specialization in Machine Learning. I'm extremely fond of building efficient and user-friendyl software. I like to work at the intersection of computer vision, machine learning and robotics. 
 
 Welcome to my GitHub, you can find all my projects here! 
 
