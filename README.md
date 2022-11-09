@@ -6,7 +6,11 @@
 
 <img width="250" align="right" src="https://raw.githubusercontent.com/batra98/batra98/master/gif/work.gif">
 
-I'm Abhinav, I'm a first year Master's student at Georgia Tech, majoring in Computer Science with a Specialization in Machine Learning. I'm extremely fond of building efficient and user-friendyl software. I like to work at the intersection of computer vision, machine learning and robotics. 
+I'm Abhinav, I'm a second year Master's student at Georgia Tech, majoring in Computer Science with a Specialization in Machine Learning. I'm extremely fond of building efficient and user-friendly software. I like to work at the intersection of computer vision, machine learning and robotics. 
+
+I’m currently working at Amazon Robotics, where I’m building new testing tools and frameworks to test out robotic movement software in simulation. This past summer, I worked at Meta (Facebook), where I helped build new internal debugging tools for the Meta Accounts Center.
+
+Previously, I completed my Bachelor’s in Computer Science and Engineering from IIIT Hyderabad. I was lucky to be advised by the amazing Dr. K. Madhava Krishna at the Robotics Research Center (RRC), where I worked on vision-guided robot navigation. I interned at Siemens in Bangalore, India during the summer of 2020.
 
 Welcome to my GitHub, you can find all my projects here! 
 
